@@ -22,3 +22,4 @@ else :
         z1=(-b-1j*sqrt(-d))/(2*a)
         z2=(-b+1j*sqrt(-d))/(2*a)
         print("les sols complexe sont",z1,"et",z2)
+hbib 3os
